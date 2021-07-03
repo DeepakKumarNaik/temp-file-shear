@@ -1,0 +1,41 @@
+#title-of-quiz{
+height:30px;
+    width:300px;
+}
+#description{
+
+    height:30px;
+    width:300px;
+}
+#submit{
+    height:30px;
+    width:30px;
+    font-size:x-large;
+
+}
+#save{
+margin-left: 50px;
+    height:30px;
+    width:100px;  
+}
+
+input{
+    height:25px;
+    width:60vw;
+
+    font: inherit;
+    background: transparent;
+    cursor: text;
+   border:none;
+    border-bottom: 2px solid rgba(0,100,0,1);
+    margin: 0;
+    display: block;
+    padding: 6px 0 7px;
+    min-width: 0;
+    border-image-slice: 1;
+    outline: none;
+    animation-name: mui-auto-fill-cancel;
+    letter-spacing: inherit;
+    animation-duration: 10ms;
+}
+
